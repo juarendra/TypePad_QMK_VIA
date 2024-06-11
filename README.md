@@ -33,8 +33,8 @@ or you can load manually json file like a library for detect this macropad
 <p align="center">
   <img src="DOC/typepad1.png" width="75%" height="75%">
   <img src="DOC/typepad5.png" width="75%" height="75%">
-  <img src="DOC/real1.jpg" width="75%" height="75%">
-  <img src="DOC/real2.jpg" width="75%" height="75%">
+  <img src="DOC/real1.jpeg" width="75%" height="75%">
+  <img src="DOC/real2.jpeg" width="75%" height="75%">
 </p>
 
 ## Cara Setting Knob
